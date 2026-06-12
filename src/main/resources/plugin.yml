@@ -1,0 +1,14 @@
+name: YuanLobby
+version: '${project.version}'
+main: org.yuan_dev.yuanLobby.YuanLobby
+api-version: '1.20'
+author: yuan_dev
+folia-supported: true
+
+commands:
+  hub:
+    description: Dua nguoi choi ve lobby
+    usage: /hub
+  lobby:
+    description: Dua nguoi choi ve lobby
+    usage: /lobby
